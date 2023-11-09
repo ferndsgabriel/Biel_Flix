@@ -1,7 +1,7 @@
 ### P️roject Biel Flix 🎥
 
 
-[![Blog](https://img.shields.io/website?label=Deploy&style=for-the-badge&url=https://prime-flix-psi.vercel.app/)](https://biiel-flix.vercel.app/)
+[![Blog](https://img.shields.io/website?label=Deploy&style=for-the-badge&url=https://biiel-flix.vercel.app/)](https://biiel-flix.vercel.app/)
 
 <div>
     <h2>About 🚨</h2>
