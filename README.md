@@ -4,7 +4,7 @@
 [![Blog](https://img.shields.io/website?label=Deploy&style=for-the-badge&url=https://prime-flix-psi.vercel.app/)](https://biiel-flix.vercel.app/)
 
 <div>
-    <h2>Sobre 🚨</h2>
+    <h2>About 🚨</h2>
     <p>
     The project was developed using Next.js, with the aim of creating a user profile screen for a movie application. Users have the ability to upload a personal photo.
     </p>
